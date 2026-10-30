@@ -1,0 +1,12 @@
+# Arduino / ESP8266 build artifacts
+build/
+*.bin
+*.elf
+*.hex
+
+# OS / Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.tmp
